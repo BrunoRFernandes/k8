@@ -1,0 +1,3 @@
+
+# apos baixar o virtualbox executar comando para instalar:
+sudo dpkg -i virtualbox
